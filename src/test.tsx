@@ -1,7 +1,7 @@
 // import Swiper core and required modules
 
 
-
+// @ts-ignore
 
 import { Navigation, Pagination, Scrollbar, A11y } from 'swiper';
 
